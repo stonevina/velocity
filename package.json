@@ -1,7 +1,7 @@
 {
-  "name": "velocity-test",
+  "name": "velocity",
   "version": "1.0.0",
-  "description": "velocity-test",
+  "description": "velocity",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon --debug app/app.js",
